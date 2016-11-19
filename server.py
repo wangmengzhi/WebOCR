@@ -3,7 +3,7 @@ import json
 from ocr import OCRNeuralNetwork
 import numpy as np
 
-HOST_NAME = 'localhost'
+HOST_NAME = ''
 PORT_NUMBER = 5000
 HIDDEN_NODE_COUNT = 15
 
